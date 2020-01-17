@@ -17,8 +17,9 @@
 
 ## Formação
 
-Análise e Desenvolvimento de Sistemas - [Braz Cubas](https://brazcubas.br)
-Gestão de Tecnologia da Informação - [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br)
+* Análise e Desenvolvimento de Sistemas - [Braz Cubas](https://brazcubas.br)
+
+* Gestão de Tecnologia da Informação - [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br)
 
 
 ## Formação - Cursos e Treinamentos
