@@ -9,9 +9,9 @@
 >No decorrer da minha carreira eu conclui duas graduações em Análise e Desenvolvimento de Sistemas e Gestão de Tecnologia da Informação, me especializando mais em sistema operacional Linux e no mundo Open Source, principais ferramentas de administração do SO e principais tecnologias que estão no âmbito do sistema com cursos de aperfeiçoamento e certificações.
 >
 >Começei a desenvolver skills em programação, possuo conhecimentos em Python, Powershell e Shell Script.
-
+>
 >Atualmente estou aprimorando cada vez mais habilidades em CI/CD, Observability, Application Monitoring, Infrastructure Monitoring, Configuration Management e Cloud Computing. 
-
+>
 >Meu lema é #Keep Exploring!!
 
 
@@ -41,13 +41,13 @@
 
 * LPIC-1 - [Linux Professional Institute](https://www.lpi.org/pt/our-certifications/lpic-1-overview)
 
-* Linux Essentials - [Linux Professional Institute] (https://www.lpi.org/pt/our-certifications/linux-essentials-overview)
+* Linux Essentials - [Linux Professional Institute](https://www.lpi.org/pt/our-certifications/linux-essentials-overview)
 
 * Comptia Linux+ - [Comptia](https://www.comptia.org/pt/certificacoes/linux)
 
-* Comptia Fundamentals - [Comptia] (https://www.comptia.org/pt/certificacoes/it-fundamentals)
+* Comptia Fundamentals - [Comptia](https://www.comptia.org/pt/certificacoes/it-fundamentals)
 
-* MTA Networking Fundamentals - [Microsoft] (https://www.microsoft.com/pt-br/learning/exam-98-366.aspx)
+* MTA Networking Fundamentals - [Microsoft](https://www.microsoft.com/pt-br/learning/exam-98-366.aspx)
 
 
 ## Linguagem de programação / Framework de automação de tarefas
