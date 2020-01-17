@@ -122,6 +122,7 @@ Realizo analises preditivas e proponho melhorias na infraestrutura do Contact Ce
 Integrando todas as aplicações e sistemas de missão crítica utilizando as principais soluções de mercado segundo o Gartner, tais como: Splunk, AppDynamics, Riverbed, Prometheus, Grafana, Graylog, entre outros.
 
 
+
 [PagSeguro](https://pagseguro.uol.com.br)
 
 **Administrador de Sistemas**
@@ -141,7 +142,7 @@ Maio de 2018 – Setembro de 2019
 - Criar Processos e Documentação Técnica.
 
 
-[UolDiveo] (https://www.uoldiveo.com.br/)
+[UolDiveo](https://www.uoldiveo.com.br/)
 
 **Analista De Operações N2 - Dedicado Banco Carrefour**
 
@@ -155,7 +156,7 @@ Agosto de 2017 – Maio de 2018
 
 [Locaweb](https://www.locaweb.com.br/)
 
-** Analista de Suporte Tecnico **
+**Analista de Suporte Tecnico**
 
 Outubro 2013 - Agosto 2017
 
